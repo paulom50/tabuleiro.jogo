@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <!-- Fundo -->
+  <rect width="800" height="600" fill="#2C3E50"/>
+  
+  <!-- Título -->
+  <text x="400" y="50" text-anchor="middle" font-size="24" font-weight="bold" fill="white">
+    CLUBE DE DETETIVES
+  </text>
+  
+  <!-- Casos de Mistério -->
+  <g>
+    <!-- Linha 1 -->
+    <rect x="120" y="110" width="160" height="80" fill="#3498DB" stroke="white"/>
+    <text x="200" y="150" text-anchor="middle" font-size="10" fill="white">Roubo no Museu</text>
+    
+    <rect x="320" y="110" width="160" height="80" fill="#2ECC71" stroke="white"/>
+    <text x="400" y="150" text-anchor="middle" font-size="10" fill="white">Mistério na Mansão</text>
+    
+    <rect x="520" y="110" width="160" height="80" fill="#E74C3C" stroke="white"/>
+    <text x="600" y="150" text-anchor="middle" font-size="10" fill="white">Desaparecimento no Cruzeiro</text>
+    
+    <!-- Linha 2 -->
+    <rect x="120" y="260" width="160" height="80" fill="#F39C12" stroke="white"/>
+    <text x="200" y="300" text-anchor="middle" font-size="10" fill="white">Assassinato na Empresa</text>
+    
+    <rect x="320" y="260" width="160" height="80" fill="#9B59B6" stroke="white"/>
+    <text x="400" y="300" text-anchor="middle" font-size="10" fill="white">Mistério na Escola</text>
+    
+    <rect x="520" y="260" width="160" height="80" fill="#1ABC9C" stroke="white"/>
+    <text x="600" y="300" text-anchor="middle" font-size="10" fill="white">Roubo na Joalheria</text>
+    
+    <!-- Linha 3 -->
+    <rect x="120" y="410" width="160" height="80" fill="#34495E" stroke="white"/>
+    <text x="200" y="450" text-anchor="middle" font-size="10" fill="white">Assassinato na Fazenda</text>
+    
+    <rect x="320" y="410" width="160" height="80" fill="#E67E22" stroke="white"/>
+    <text x="400" y="450" text-anchor="middle" font-size="10" fill="white">O Mistério do Teatro</text>
+    
+    <rect x="520" y="410" width="160" height="80" fill="#2980B9" stroke="white"/>
+    <text x="600" y="450" text-anchor="middle" font-size="10" fill="white">Desaparecimento no Metrô</text>
+    
+    <!-- Casa Extra -->
+    <rect x="320" y="560" width="160" height="80" fill="#D35400" stroke="white"/>
+    <text x="400" y="600" text-anchor="middle" font-size="10" fill="white">Enigma da Casa Noturna</text>
+  </g>
+  
+  <!-- Botão de Início -->
+  <rect x="50" y="550" width="100" height="40" fill="#27AE60" stroke="white"/>
+  <text x="100" y="570" text-anchor="middle" font-size="12" font-weight="bold" fill="white">INICIAR</text>
+</svg>
